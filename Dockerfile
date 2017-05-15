@@ -2,7 +2,7 @@
 # Distributed under the terms of the Modified BSD License.
 FROM jupyter/all-spark-notebook
 
-MAINTAINER Lim Cheng Yee "https://github.com/shadowandy"
+MAINTAINER Lim Cheng Yee "https://github.com/shadowandy/docker-all-spark-notebook-custom"
 
 USER root
 
